@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631795535 source:c:\users\lenovo\documents\programas\calculadora_byseven\main.c
+	<stdio.h>
+	<stdlib.h>
+
